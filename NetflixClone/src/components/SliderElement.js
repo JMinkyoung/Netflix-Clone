@@ -87,12 +87,6 @@ const SliderElement = ({type, setContentId, setModalOpend, setMediaType, id, sta
         
     };
 
-    useEffect(()=>{
-        if(type === "tv"){
-            console.log(data);
-        }
-    },[])
-
     return (
         <>
         <SliderElementWrapper onClick={modalOpen}  onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} id={id} started={started} hovered={hovered}>         
