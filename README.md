@@ -20,6 +20,7 @@ npm run dev
 
 [![React](https://img.shields.io/badge/React-17.0.2-blue?logo=React)]()
 [![Redux](https://img.shields.io/badge/Redux-4.1.1-764ABC?logo=Redux&logoColor=764ABC)]()
+[![Redux-Saga](https://img.shields.io/badge/Redux_Saga-1.1.3-999999?logo=Redux-Saga&logoColor=999999)]()
 [![Next.js](https://img.shields.io/badge/Next.js-11.1.1-white?&logo=Next.js&logoColor=white)]()
 [![styled-components](https://img.shields.io/badge/styled_components-5.3.1-DB7093?&logo=styled-components&logoColor=DB7093)]()
 
